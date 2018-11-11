@@ -29,7 +29,7 @@
  暂时先不管北京二手房的bug
  
  ## 数据库保存
- pymongo.errors.ServerSelectionTimeoutError: localhost:27017: [WinError 10061] 由于目标计算机积极拒绝，无法连接。
+ 单机版用的是MongoDB，之后和虚拟机搭建scrapy-redis分布式架构，详情见CSDN的https://blog.csdn.net/wjl31802/article/details/83869040
     
  
             
