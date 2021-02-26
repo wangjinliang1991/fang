@@ -1,4 +1,4 @@
-aiohttp==3.4.4
+aiohttp==3.7.4
 aip==1.0.0.5
 api==0.0.7
 asn1crypto==0.24.0
