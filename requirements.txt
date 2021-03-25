@@ -74,7 +74,7 @@ pytesseract==0.2.5
 python-dateutil==2.7.3
 pytz==2018.5
 pywin32==224
-PyYAML==3.13
+PyYAML==5.4
 pyzmq==17.1.2
 queuelib==1.5.0
 redis==2.10.6
